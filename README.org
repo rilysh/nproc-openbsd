@@ -1,0 +1,9 @@
+** nproc
+This is a version of nproc for OpenBSD.
+
+** Usage
+Run =nproc -h= for help.
+#+begin_src text
+usage: nproc [-aofeh]
+#+end_src
+
